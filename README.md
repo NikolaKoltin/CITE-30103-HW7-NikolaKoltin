@@ -1,6 +1,6 @@
 # CITE-30103-HW7-NikolaKoltin
 
-This repository contains my solutions for CITE-30103 Homework 7. Each C program is in a separate file (question1.c, question2.c, ..., question25.c).
+This repository contains my solutions for CITE-30103 Homework 7. Each C program is in a separate file (question1.c, question2.c, ..., question24.c).
 
 ## How to Compile and Run
 
